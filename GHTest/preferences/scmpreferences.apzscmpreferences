@@ -1,0 +1,11 @@
+{
+  "typeclass": "SCMPREFERENCES",
+  "name": "scmpreferences",
+  "type": "SCMPREFERENCES",
+  "savepwd": "Y",
+  "scmtype": "GIT",
+  "scmurl": "https://github.com/itsmrajesh/test-git.git",
+  "branch": "main",
+  "repoName": "test-git",
+  "connectionProtocol": "HTTPS"
+}
